@@ -1,15 +1,5 @@
 # Covid-19 App Flutter
 
-**Follow me:**
-- [Facebook](https://www.facebook.com/zendy199x/)
-- [Linkedin](https://www.linkedin.com/in/zendy199x/)
-- [Github](https://www.github.com/zendy199x/)
-
-**Contact me:**
-- Mail: <a href="mailto:zendy199x@gmail.com">zendy199x@gmail.com</a>
-- Skype: nhokkute.nguyenduc
-- Zalo: [Zendy](https://zalo.me/nguyenduc94/)
-
 **Note:** For API:
 - Go to [here](https://docs.rapidapi.com/docs/keys) see RapidAPI key creation instructions.
 - Replace YOUR_RAPID_API_KEY in repository.dart with your RapidAPI key.
